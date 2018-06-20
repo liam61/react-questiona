@@ -1,11 +1,13 @@
 # react_questiona
-给刚开始接触前端react框架的人练手的小项目。
+给刚开始接触前端 react 框架的人练手的小项目。
 
 使用`create-react-app`初始化项目
 
 版本信息如下：
 `node: v8.11.2`
+
 `npm: 5.6.0`
+
 `yarn: v1.7.0`
 
 ## 如何使用

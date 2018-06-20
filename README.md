@@ -4,6 +4,7 @@
 使用`create-react-app`初始化项目
 
 版本信息如下：
+
 `node: v8.11.2`
 
 `npm: 5.6.0`
@@ -32,4 +33,6 @@ yarn start
 
 通过localhost访问
 
-[localhost:3000](http://localhost:3000)
+```bash
+http://localhost:3000
+```

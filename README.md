@@ -6,7 +6,7 @@
 下载
 
 ```bash
-git clone git@github.com:jeffery5461/react_questiona.git
+git clone git@github.com:lawler61/react_questiona.git
 ```
 
 安装
